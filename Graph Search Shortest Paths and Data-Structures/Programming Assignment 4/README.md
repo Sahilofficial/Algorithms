@@ -7,4 +7,4 @@ Implement 2-sum algorithm
   - `2sum.py`
   
 # Algorithm
-- [2-sum](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/14.1-slides_algo-ds-hash-basics_typed.pdf)
+- [2-Sum](https://github.com/Sahilofficial/Algorithms/blob/main/Graph%20Search%20Shortest%20Paths%20and%20Data-Structures/Lecture%20Slides/14.1-slides_algo-ds-hash-basics_typed.pdf)
