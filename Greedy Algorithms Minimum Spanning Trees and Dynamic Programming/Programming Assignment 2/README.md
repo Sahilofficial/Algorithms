@@ -15,5 +15,5 @@
 open `.html` file via brower for quick look.
 
 # Implementation
-- Kruskal's MST algorithm
+- [Kruskal's MST algorithm](https://github.com/Sahilofficial/Algorithms/blob/main/Greedy%20Algorithms%20Minimum%20Spanning%20Trees%20and%20Dynamic%20Programming/Lecture%20Slides/21.1-algo2-greedy-kruskal1-typed.pdf)
 - Clustering
