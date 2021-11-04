@@ -7,4 +7,4 @@ Code up Dijkstra's Shortest-Path Algorithm
   - `dijkstraData.py`
   
 # Algorithm
-- Dijkstra's Shortest-Path Algorithm
+- [Dijkstra's Shortest-Path Algorithm](https://github.com/Sahilofficial/Algorithms/blob/main/Graph%20Search%20Shortest%20Paths%20and%20Data-Structures/Lecture%20Slides/11.2-slides_algo-dijkstra-correctness_typed.pdf)
