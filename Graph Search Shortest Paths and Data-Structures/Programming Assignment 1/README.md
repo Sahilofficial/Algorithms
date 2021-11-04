@@ -7,5 +7,5 @@ Compute the 5 largest SCCs in the given graph
   - `SCC.py`
   - `other.py` other people's solution
 # Algorithm
-- [Kosaraju’s Two‐Pass Algorithm](https://github.com/SSQ/Coursera-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures/blob/master/Lecture%20Slides/10.4-slides_algo-graphs-scc_typed.pdf)
+- [Kosaraju’s Two‐Pass Algorithm](https://github.com/Sahilofficial/Algorithms/blob/main/Graph%20Search%20Shortest%20Paths%20and%20Data-Structures/Lecture%20Slides/10.4-slides_algo-graphs-scc_typed.pdf)
 - Depth-First Search
